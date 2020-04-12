@@ -1,0 +1,20 @@
+{
+    "projectName": "amplifynotetaker",
+    "projectPath": "D:\\development\\amplify\\amplify-notetaker",
+    "defaultEditor": "code",
+    "frontendHandler": {
+        "javascript": "C:\\Users\\HP\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-frontend-javascript"
+    },
+    "javascript": {
+        "framework": "react",
+        "config": {
+            "SourceDir": "src",
+            "DistributionDir": "build",
+            "BuildCommand": "npm.cmd run-script build",
+            "StartCommand": "npm.cmd run-script start"
+        }
+    },
+    "providers": {
+        "awscloudformation": "C:\\Users\\HP\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-provider-awscloudformation"
+    }
+}
